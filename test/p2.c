@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 //symbolic constant to set a max size for the string
 #define SIZE 1000
 
